@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "http://https://nagodede.netlify.com",
+    "site": "http://nagodede.netlify.com",
     "hubpress": "https://nagodede.netlify.com",
-    "theme": "//https://nagodede.netlify.com/themes/casper",
-    "images": "http://https://nagodede.netlify.com/images"
+    "theme": "//nagodede.netlify.com/themes/casper",
+    "images": "http://nagodede.netlify.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -30,7 +30,7 @@
     "_Ctor": {}
   },
   "site": {
-    "title": "",
+    "title": "NagoDede",
     "description": "",
     "logo": "",
     "cover": "",
