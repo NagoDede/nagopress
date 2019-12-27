@@ -13,3 +13,9 @@ https://hubpress.gitbooks.io +
 https://netlify.com +
 https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
+
+//:hp-image: /covers/cover.png
+//:published_at: 2019-01-31
+:hp-tags: HubPress, Blog, Open_Source,
+//:hp-alt-title: Switching to a static website
+
