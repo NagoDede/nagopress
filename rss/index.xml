@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 27 Dec 2019 08:50:07 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 27 Dec 2019 08:51:29 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
+<p>My blog does not require so much controls. PHP, SQL database,&#8230;&#8203; are useless for my needs. So, I switch to a static website.
+I use HubPress to power my website. It looks simple&#8230;&#8203; but it request a time of adaptation. The authoring of the website is quite different than a Wordpress page.</p>
+</div>
+<div class="paragraph">
+<p>Here, I need to build my pages (well Netlify does it automatically for me) while previously PHP builds my pages at each calls (not exactly, this is why there is some temporary storage).<br>
+At the time being, I host this site on Github and Netlify. I will experiment this approach before a switch to my official websites.</p>
+</div>
+<div class="paragraph">
+<p>Nubpress uses a language closed to markedown (nammed AsciiDocs). Syntax seems to be easy and powerful.</p>
+</div>
+<div class="paragraph">
+<p>See:
+<a href="https://hubpress.gitbooks.io" class="bare">https://hubpress.gitbooks.io</a><br>
+<a href="https://netlify.com" class="bare">https://netlify.com</a><br>
+<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/" class="bare">https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
+</div>]]></description><link>http://nagodede.netlify.com/2019/12/27/Transition-to-a-static-webserve.html</link><guid isPermaLink="true">http://nagodede.netlify.com/2019/12/27/Transition-to-a-static-webserve.html</guid><dc:creator><![CDATA[Vincent D.]]></dc:creator><pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate></item></channel></rss>
