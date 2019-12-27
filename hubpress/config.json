@@ -3,7 +3,7 @@
     "username": "Nagodede",
     "repositoryName": "nagopress",
     "branch": "master",
-    "cname": "nagodede.netlify.net"
+    "cname": "https://nagodede.netlify.com"
   },
   "theme": {
     "name": "casper"
