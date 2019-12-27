@@ -3,16 +3,16 @@
     "username": "Nagodede",
     "repositoryName": "nagopress",
     "branch": "master",
-    "cname": "https://nagodede.netlify.com"
+    "cname": "nagodede.netlify.com"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "http://nagodede.netlify.net",
+    "site": "http://https://nagodede.netlify.com",
     "hubpress": "https://nagodede.netlify.com",
-    "theme": "//nagodede.netlify.net/themes/casper",
-    "images": "http://nagodede.netlify.net/images"
+    "theme": "//https://nagodede.netlify.com/themes/casper",
+    "images": "http://https://nagodede.netlify.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
