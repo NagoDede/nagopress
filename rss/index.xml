@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 27 Dec 2019 08:28:08 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
-<p>Here, I need to build my pages while previously PHP builds my pages at each calls (not exactly, this is why there is some temporary storage).
-At the time being, I host this site on Github and Netlify. It gives me some time before a switch to my official websites.</p>
-</div>
-<div class="paragraph">
-<p>See <a href="https://hubpress.gitbooks.io/hubpress" class="bare">https://hubpress.gitbooks.io/hubpress</a>
-:hp-image: /covers/cover.png
-:published_at: 2019-01-31
-:hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title: Switching to a static website</p>
-</div>]]></description><link>http://nagodede.netlify.com/2019/12/27/Transition-to-a-static-webserve.html</link><guid isPermaLink="true">http://nagodede.netlify.com/2019/12/27/Transition-to-a-static-webserve.html</guid><dc:creator><![CDATA[Vincent D.]]></dc:creator><pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 27 Dec 2019 08:44:44 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
