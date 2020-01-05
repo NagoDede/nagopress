@@ -6,7 +6,7 @@ I use HubPress to power my website. It looks simple... but it request a time of 
 Here, I need to build my pages (well Netlify does it automatically for me) while previously PHP builds my pages at each calls (not exactly, this is why there is some temporary storage). + 
 At the time being, I host this site on Github and Netlify. I will experiment this approach before a switch to my official websites.
 
-Nubpress uses a language closed to markedown (nammed AsciiDocs). Syntax seems to be easy and powerful. 
+Hubpress uses a language closed to markedown (nammed AsciiDocs). Syntax seems to be easy and powerful. 
 
 See:
 https://hubpress.gitbooks.io +
