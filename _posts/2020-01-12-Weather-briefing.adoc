@@ -4,9 +4,6 @@ This page contains the basic weather information for a flight in central Japan.
 
 image:http://www.data.jma.go.jp/airinfo/data/pict/fbjp/fbjp.png[FBJP]
 
-++++
-<script type="text/javascript" src="http://www.imocwx.com/i/metar.php?Area=4&Port=RJNA></script>
-++++
 
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
