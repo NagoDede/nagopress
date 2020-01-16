@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[NagoDede]]></title><description><![CDATA[NagoDede]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 16 Jan 2020 13:42:58 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[NagoDede]]></title><description><![CDATA[NagoDede]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 16 Jan 2020 13:52:01 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Weather briefing]]></title><description><![CDATA[<div class="paragraph">
+<p>This page contains the basic weather information for a flight in central Japan.</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><img src="http://www.data.jma.go.jp/airinfo/data/pict/fbjp/fbjp.png" alt="FBJP"></span></p>
+</div>
+<div w3-include-html="http://www.imocwx.com/i/metar.php?Area=4&Port=RJNA"></div>]]></description><link>http://nagodede.netlify.com/2020/01/12/Weather-briefing.html</link><guid isPermaLink="true">http://nagodede.netlify.com/2020/01/12/Weather-briefing.html</guid><dc:creator><![CDATA[Vincent D.]]></dc:creator><pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
 <p>My blog does not require so much controls. PHP, SQL database,&#8230;&#8203; are useless for my needs. So, I switch to a static website.
 I use HubPress to power my website. It looks simple&#8230;&#8203; but it request a time of adaptation. The authoring of the website is quite different than a Wordpress page.</p>
 </div>
