@@ -1,7 +1,7 @@
 = Weather briefing
 
 ++++
-<script>
+<script type="text/javascript">
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
@@ -44,7 +44,7 @@ image:http://www.data.jma.go.jp/airinfo/data/pict/fbjp/fbjp.png[FBJP]
 more Text
 
 ++++
-<script>
+<script type="text/javascript">
 includeHTML();
 </script>
 ++++
