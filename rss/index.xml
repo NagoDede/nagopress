@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[NagoDede]]></title><description><![CDATA[NagoDede]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Jan 2020 01:09:20 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Weather briefing]]></title><description><![CDATA[<script type="text/javascript">
-function includeHTML() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("w3-include-html");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-          /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
-          includeHTML();
-        }
-      }
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
-}
-</script>
-<div class="paragraph">
-<p>This page contains the basic weather information for a flight in central Japan.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="http://www.data.jma.go.jp/airinfo/data/pict/fbjp/fbjp.png" alt="FBJP"></span></p>
-</div>
-<div w3-include-html="http://www.imocwx.com/i/metar.php?Area=4&Port=RJNA"></div>
-<div class="paragraph">
-<p>more Text</p>
-</div>
-<script type="text/javascript">
-includeHTML();
-</script>]]></description><link>http://nagodede.netlify.com/2020/01/12/Weather-briefing.html</link><guid isPermaLink="true">http://nagodede.netlify.com/2020/01/12/Weather-briefing.html</guid><dc:creator><![CDATA[Vincent D.]]></dc:creator><pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[NagoDede]]></title><description><![CDATA[NagoDede]]></description><link>http://nagodede.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 22 Feb 2020 02:23:38 GMT</lastBuildDate><atom:link href="http://nagodede.netlify.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Transition to a static webserve]]></title><description><![CDATA[<div class="paragraph">
 <p>My blog does not require so much controls. PHP, SQL database,&#8230;&#8203; are useless for my needs. So, I switch to a static website.
 I use HubPress to power my website. It looks simple&#8230;&#8203; but it request a time of adaptation. The authoring of the website is quite different than a Wordpress page.</p>
 </div>
